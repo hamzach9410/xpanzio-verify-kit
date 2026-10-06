@@ -1,0 +1,20 @@
+{
+  "name": "@xpanzio/verify-kit",
+  "version": "1.0.0",
+  "description": "Cryptographic certificate and credential verification utility from Xpanzio Technologies",
+  "main": "index.js",
+  "keywords": [
+    "xpanzio",
+    "verification",
+    "credentials",
+    "cryptography",
+    "tamper-proof"
+  ],
+  "homepage": "https://xpanzio.com/verify",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xpanzio-technologies/verify-kit"
+  },
+  "author": "Xpanzio Technologies <contact@xpanzio.com> (https://xpanzio.com)",
+  "license": "MIT"
+}
